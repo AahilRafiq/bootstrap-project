@@ -1,0 +1,110 @@
+/* General Section */
+
+.font-gen
+{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/* Top section */
+
+#top-section
+{
+    background-color: #dadbf1;
+}
+
+.navbar-brand.font-gen
+{
+    font-size: xx-large;
+    font-weight: bold;
+}
+.btn-custom-style
+{
+    font-size: x-large;
+    font-family: 'Roboto', sans-serif;
+}
+
+.search-section
+{
+    text-align: center;
+}
+.search-section h1
+{
+    font-size: 80px;
+    font-weight: normal;
+    padding-top: 5rem;
+}
+.search-box
+{
+    width: 60%;
+    height: 4rem;
+    font-family: 'Roboto', sans-serif;
+    font-size: large;
+    padding: 1rem;
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.1), 0 0px 0px 0 rgba(0, 0, 0, 0.19);
+    border: 1px solid darkblue;
+    border-radius: 4px;
+    margin: 6rem;
+    margin-top: 1rem;
+}
+
+/* Features Section */
+
+.main-feature-row
+{
+    width: 80%;
+    margin: 0 auto;
+    margin: 6rem auto;
+}
+.features-imgs
+{
+    width: 100%;
+    margin: 0 0rem 0rem 0rem;
+}
+.feature-card
+{
+    padding: 3rem;
+    height: fit-content;
+}
+h3
+{
+    font-weight: bolder;
+}
+.feature-card p
+{
+    font-size: x-large;
+}
+.feature-card a
+{
+    text-decoration: none;
+}
+
+/* Footer section */
+.main-footer
+{
+    background-color: black;
+    width: 100%;
+}
+.col-lg-3 h3
+{
+    color: white;
+}
+.col-lg-3 h4
+{
+    color: white;
+}
+.col-lg-3 a
+{
+    color: white;
+    text-decoration: none;
+}
+.col-lg-3 a:hover
+{
+    color: white;
+    text-decoration: underline;
+}
+.row.bg-black
+{
+    padding: 5% 10%;
+    margin: 0 auto;
+}
